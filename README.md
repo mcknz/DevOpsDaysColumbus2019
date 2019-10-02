@@ -1,7 +1,7 @@
 # Devopsdays-Columbus-2019
 This repo contains supporting material for the "Automating Your Automation: The Care and Feeding of Jenkins" session presented by Jeff McKenzie at the Devopsdays Columbus 2019 conference on September 18, 2019 in Columbus, Ohio.
 
-## DevpsDays
+## DevopsDays
 Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area.
 
 Most devopsdays events feature a combination of curated talks (see open Calls for Proposals) and self organized open space content. Topics often include automation, testing, security, and organizational culture.
